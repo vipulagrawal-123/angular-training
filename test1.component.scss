@@ -1,0 +1,29 @@
+$a:darkgreen;
+$b:blue;
+$c:black;
+$text:center;
+h1 {
+    text-align: $text;
+    color:white;
+    background-color:$c;
+}
+#div1 {
+    text-align:$text;
+    background-color: $b;
+    p{
+        text-align: $text;
+        background-color: $a;
+        width:max-content;
+        margin-left: 47%;
+    }
+}
+#div2{
+    text-align: $text;
+    background-color: $a;
+    p{
+        text-align: $text;
+        background-color:$b;
+        width:max-content;
+        margin-left: 47%;
+    }
+}

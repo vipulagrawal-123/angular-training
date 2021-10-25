@@ -1,0 +1,21 @@
+h1{ 
+    text-align: center;
+}
+#div1{ 
+    background-color: blue;
+}
+#div2{ 
+    background-color: darkgreen;
+}
+#div1 p{
+    text-align: center;
+    background-color: darkgreen;
+    width:max-content;
+    margin-left: 44%;
+}
+#div2 p{
+    text-align: center;
+    background-color:blue;
+    width:max-content;
+    margin-left: 44%;
+}
